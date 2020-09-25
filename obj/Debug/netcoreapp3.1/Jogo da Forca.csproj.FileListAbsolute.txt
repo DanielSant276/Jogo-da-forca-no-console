@@ -1,0 +1,13 @@
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.exe
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.deps.json
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.runtimeconfig.json
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.runtimeconfig.dev.json
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.dll
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.pdb
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.csprojAssemblyReference.cache
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.AssemblyInfoInputs.cache
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.AssemblyInfo.cs
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.csproj.CoreCompileInputs.cache
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.dll
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.pdb
+E:\Daniel\Estudo-prog\C#\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.genruntimeconfig.cache
